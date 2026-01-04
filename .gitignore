@@ -1,2 +1,5 @@
 #ignore all executable files
-*.exe
+**/*.exe
+**/*.bat
+**/*.sh
+**/*.cmd
